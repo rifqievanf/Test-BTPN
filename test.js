@@ -18,3 +18,4 @@ function countCharacters(str) {
 }
 
 console.log(countCharacters("Hello World"));
+console.log(countCharacters("HAhaHAhaHAha"));
